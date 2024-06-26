@@ -17,9 +17,13 @@
         "description": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter mountain ridge. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate.",
         "image-link": "",
         "image-alt": "Machu Picchu, Peru",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718905222660!6m8!1m7!1sCAoSLEFGMVFpcE5jd2NhRmVpVzFUQW9YalpETll2ZmRtVnMyUEhqS0pkSEs2Q0RI!2m2!1d-13.16581!2d-72.54559499999999!3f2.500000109650289!4f-12.643273828858469!5f0.4000000000000002"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": -13.1631,
+            "longitude": -72.5450
+        }
     },
     {
         "id": 2,
@@ -39,9 +43,13 @@
         "description": "Yosemite National Park is an American national park located in the western Sierra Nevada of Central California, bounded on the southeast by Sierra National Forest and on the northwest by Stanislaus National Forest. The park covers an area of 748,436 acres.",
         "image-link": "",
         "image-alt": "Yosemite National Park, California, USA",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993136617!6m8!1m7!1smA_o-n74Vh8AAAQqZe0GfA!2m2!1d37.72923496411894!2d-119.6365200691226!3f124.9376689626471!4f-11.701408580370497!5f0.4000000000000002"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 37.8651,
+            "longitude": -119.5383
+        }
     },
     {
         "id": 3,
@@ -61,9 +69,13 @@
         "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. This drop allows you to see the city of Paris from the tower.",
         "image-link": "",
         "image-alt": "Eiffel Tower, Paris, France",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993188211!6m8!1m7!1sIbUm5uP_Ccl4YeLaUgvrgg!2m2!1d48.85844806901689!2d2.294475579541943!3f284.8358638219056!4f-3.3556203612103133!5f0.4000000000000002"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 48.8584,
+            "longitude": 2.2945
+        }
     },
     {
         "id": 4,
@@ -83,9 +95,13 @@
         "description": "Ilulissat Icefjord is a fjord in western Greenland. It is a UNESCO World Heritage Site. The icefjord is located near the town of Ilulissat, which is the third-largest town in Greenland.",
         "image-link": "",
         "image-alt": "Ilulissat Icefjord, Greenland",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993202125!6m8!1m7!1s5DtG7cXPa33qY8Jyyb3MmQ!2m2!1d69.2079432310335!2d-51.16300681512197!3f226.08!4f-4.349999999999994!5f0.7820865974627469"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 69.2079,
+            "longitude": -51.1630
+        }
     },
     {
         "id": 5,
@@ -105,9 +121,13 @@
         "description": "Codfish Island / Whenua Hou is a small island located to the west of Stewart Island in southern New Zealand. The island is home to famous kākāpō, a critically endangered flightless parrot.",
         "image-link": "",
         "image-alt": "Codfish Island, New Zealand",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993224888!6m8!1m7!1sWnxKlZiUxIYAAARAtEAUUw!2m2!1d-46.76949279310739!2d167.6448587611964!3f250.22860597439544!4f-10.327596017069709!5f0.4000000000000002"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": -46.7695,
+            "longitude": 167.6449
+        }
     },
     {
         "id": 6,
@@ -128,9 +148,13 @@
         "description": "Khuvsgul Lake is the largest freshwater lake in Mongolia by volume, and the second-largest by area. It is located near the northern border of Mongolia, at the foot of the eastern Sayan Mountains.",
         "image-link": "",
         "image-alt": "Khuvsgul Lake, Mongolia",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993235651!6m8!1m7!1sBM44wVP1sQJ0tR_dCqyqWw!2m2!1d50.50198785988807!2d100.1667616761202!3f258.14!4f-13.829999999999998!5f0.7820865974627469"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 50.5019,
+            "longitude": 100.1668
+        }
     },
     {
         "id": 7,
@@ -150,11 +174,15 @@
         "description": "Mont Blanc is the highest mountain in the Alps and the highest in Europe west of Russia's Caucasus peaks. It rises 4,808.7 m above sea level and is ranked 11th in the world in topographic prominence.",
         "image-link": "",
         "image-alt": "Mont Blanc, France/Italy",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993278468!6m8!1m7!1s1bdRoq8Vk8EAAAQzzZq2-w!2m2!1d45.83261615997637!2d6.866842038420486!3f39.347452668781315!4f-20.417293845597385!5f0.4007481310724289",
             "https://www.google.com/maps/embed?pb=!4v1718993287626!6m8!1m7!1siT-yGmgCz2QAAAQzzZq2_g!2m2!1d45.83261593087615!2d6.867529578671338!3f42.5!4f-15.989999999999995!5f0.7820865974627469",
             "https://www.google.com/maps/embed?pb=!4v1718993343896!6m8!1m7!1s5YbIN3vSm_JXZb87WH3e6Q!2m2!1d35.6580205119397!2d139.7488218898752!3f249.15043917641515!4f19.45744576032463!5f0.7820865974627469"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 45.8326,
+            "longitude": 6.8668
+        }
     },
     {
         "id": 8,
@@ -175,9 +203,13 @@
         "description": "Tokyo Tower is a communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan. At 332.9 meters, it is the second-tallest structure in Japan. The Zōjō-ji temple is visible in this drop",
         "image-link": "",
         "image-alt": "Tokyo Tower, Tokyo, Japan",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993343896!6m8!1m7!1s5YbIN3vSm_JXZb87WH3e6Q!2m2!1d35.6580205119397!2d139.7488218898752!3f249.15043917641515!4f19.45744576032463!5f0.7820865974627469"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 35.6580,
+            "longitude": 139.7488
+        }
     },
     {
         "id": 9,
@@ -198,9 +230,13 @@
         "description": "The Basílica de la Sagrada Família, also known as the Sagrada Família, is a large unfinished Roman Catholic minor basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by Spanish/Catalan architect Antoni Gaudí.",
         "image-link": "",
         "image-alt": "La Sagrada Familia, Barcelona, Spain",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993364322!6m8!1m7!1sYo_IZSIT8FbFSK6TmrTEAw!2m2!1d41.40353282376412!2d2.174540934800632!3f221.59!4f46.80000000000001!5f0.7820865974627469"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 41.4035,
+            "longitude": 2.1745
+        }
     },
     {
         "id": 10,
@@ -221,9 +257,13 @@
         "description": "The Samburu Elephant Project is the longest running study of its kind in the region. The project is based in the Samburu National Reserve in northern Kenya. The reserve is home to a variety of wildlife species.",
         "image-link": "",
         "image-alt": "Samburu National Reserve, Kenya",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993391705!6m8!1m7!1sJTAixvB4zSPWy0Lk5Bgccw!2m2!1d0.5711046391721364!2d37.56390020491204!3f196.51520810298427!4f-10.09695285995248!5f0.4000000000000002"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": 0.5711,
+            "longitude": 37.5639
+        }
     },
     {
         "id": 11,
@@ -243,9 +283,13 @@
         "description": "Antarctica is home to a variety of penguin species. The most common species are the Adélie, Chinstrap, Emperor, Gentoo, King, Macaroni, and Rockhopper penguins.",
         "image-link": "",
         "image-alt": "Penguins, Antarctica",
-        "embed-src": [
+        "embed-street-view-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993418831!6m8!1m7!1sZzuMubmHCfCGGo3ePSlpCQ!2m2!1d-62.59608682521039!2d-59.90165494252034!3f241.87!4f-4.510000000000005!5f1.0671864295148903",
             "https://www.google.com/maps/embed?pb=!4v1718905569218!6m8!1m7!1sCAoSLEFGMVFpcE9WWUJoMElZR3gzNVlISllpTUhkLV8xNFBPbmZSVWpZd0l6NWx4!2m2!1d-64.5324!2d-62.5542!3f207.4737136372754!4f-5.088267573652203!5f0.4000000000000002"
-        ]
+        ],
+        "coordinates" : {
+            "latitude": -62.5961,
+            "longitude": -59.9017
+        }
     }
 ]

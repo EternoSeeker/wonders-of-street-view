@@ -27,6 +27,10 @@ type: [] <island/mountain/waterfall/../miscellaneous>
 keywords: [] <keywords for the overall feel of the place 
             e.g eerie, weird, breathtaking etc>
 description: " " <a small paragraph for context>
-embed-src: [] <link>
 image-link: <link>
+embed-src: [] <link>(s)
+coordinates: {
+    lat: " ",
+    long: " "
+}
 
