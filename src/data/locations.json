@@ -224,5 +224,28 @@
         "embed-src": [
             "https://www.google.com/maps/embed?pb=!4v1718993391705!6m8!1m7!1sJTAixvB4zSPWy0Lk5Bgccw!2m2!1d0.5711046391721364!2d37.56390020491204!3f196.51520810298427!4f-10.09695285995248!5f0.4000000000000002"
         ]
+    },
+    {
+        "id": 11,
+        "name": "Penguins",
+        "location": "Antarctica",
+        "tagline": "The Penguins of Antarctica",
+        "type": [
+            "Wildlife",
+            "Penguins"
+        ],
+        "keywords": [
+            "Antarctica",
+            "Wildlife",
+            "Penguins",
+            "Antarctic"
+        ],
+        "description": "Antarctica is home to a variety of penguin species. The most common species are the Adélie, Chinstrap, Emperor, Gentoo, King, Macaroni, and Rockhopper penguins.",
+        "image-link": "",
+        "image-alt": "Penguins, Antarctica",
+        "embed-src": [
+            "https://www.google.com/maps/embed?pb=!4v1718993418831!6m8!1m7!1sZzuMubmHCfCGGo3ePSlpCQ!2m2!1d-62.59608682521039!2d-59.90165494252034!3f241.87!4f-4.510000000000005!5f1.0671864295148903",
+            "https://www.google.com/maps/embed?pb=!4v1718905569218!6m8!1m7!1sCAoSLEFGMVFpcE9WWUJoMElZR3gzNVlISllpTUhkLV8xNFBPbmZSVWpZd0l6NWx4!2m2!1d-64.5324!2d-62.5542!3f207.4737136372754!4f-5.088267573652203!5f0.4000000000000002"
+        ]
     }
 ]

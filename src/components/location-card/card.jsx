@@ -9,7 +9,7 @@ function Card({name, tagline, location, imageLink, imageAlt}) {
         <img className="card-image" src={imageLink} alt={imageAlt} />
       </div>
       <div>
-        <h3 className="card-title">{name}</h3>
+        <div className="card-title">{name}</div>
         <div className="card-tagline">{tagline}</div>
       </div>
 
