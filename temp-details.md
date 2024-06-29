@@ -2,6 +2,7 @@
 ## Theme
 https://coolors.co/fcf6f0-002a32-00c2d1
 https://coolors.co/fcf6f0-002a32-00c2d1-4d8b31
+https://coolors.co/fcf6f0-00c2d1-03b75a-002a32-00ca8d-006b81
 
 ## Font
 
@@ -15,7 +16,7 @@ const imageUrl =
 
 
 ## Other tools used
-Serving the images: netlify cdn ?
+Serving the images: cloudinary ?
 
 ## JSON
 
