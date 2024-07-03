@@ -1,5 +1,5 @@
-import Card from "../location-card/card";
-import "./cardList.css";
+import Card from "../location-card/Card";
+import "./card-list.css";
 import data from "../../data/locations.json";
 
 function CardList(){
