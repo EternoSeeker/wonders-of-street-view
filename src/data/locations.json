@@ -291,5 +291,30 @@
             "latitude": -62.5961,
             "longitude": -59.9017
         }
+    },
+    {
+        "id": 12,
+        "name": "Amazon River",
+        "location": "Rio Negro, Brazil",
+        "tagline": "The Amazon River Basin",
+        "type" : [
+            "River"
+        ],
+        "keywords": [
+            "Amazon",
+            "River",
+            "Brazil",
+            "River Basin"
+        ],
+        "description" : "The Rio Negro, or Guainía as it is known in its upper part, is the largest left tributary of the Amazon River, the largest blackwater river in the world, and one of the world's ten largest rivers by average discharge.",
+        "image-link" : "",
+        "image-alt" : "Amazon River basin, Manaus, Brazil",
+        "embed-street-view-src": {
+            "View": "https://www.google.com/maps/embed?pb=!4v1718993497208!6m8!1m7!1s1ci-8iBT_UuG1dlrUy1vzg!2m2!1d-3.137760506045586!2d-60.49335489465247!3f153.68807446305505!4f-5.603257931408109!5f1.1093371934926033"
+        },
+        "coordinates":{
+            "latitude": -3.1377,
+            "longitude": -60.4933
+        }
     }
 ]
