@@ -6,6 +6,7 @@
   max-width: 20rem;
   margin: 1rem auto;
   transition: transform 0.2s ease;
+  user-select: none;
 }
 
 .card-container:hover {

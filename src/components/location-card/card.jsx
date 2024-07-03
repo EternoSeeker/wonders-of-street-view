@@ -1,6 +1,6 @@
 import "./card.css";
 import PropTypes from "prop-types";
-import pinIcon from "../../../tempfiles/pin-drop.svg";
+import pinIcon from "../../../images/pin-drop.svg";
 
 function Card({name, tagline, location, imageLink, imageAlt}) {
   return (

@@ -1,5 +1,5 @@
-import PropTypes from "prop-types";
-import "./display-map.css";
+import PropTypes from 'prop-types';
+import './display-map.css';
 
 const DisplayMap = ({ latitude, longitude }) => {
   const bbox = `${longitude - 0.1},${latitude - 0.1},${longitude + 0.1},${latitude + 0.1}`;
@@ -18,7 +18,7 @@ const DisplayMap = ({ latitude, longitude }) => {
       ></iframe>
       <br />
       <small>
-        <a href={href} className="view-larger-map-button">
+        <a href={href} className="view-larger-map-button" target="_blank" rel="noopener noreferrer">
           View Larger Map
         </a>
       </small>
