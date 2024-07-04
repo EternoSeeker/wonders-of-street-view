@@ -7,6 +7,8 @@
   margin: 1rem auto;
   transition: transform 0.2s ease;
   user-select: none;
+  opacity: 0;
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
 }
 
 .card-container:hover {
@@ -87,5 +89,34 @@
 
   .card-tagline {
     font-size: 0.8rem;
+  }
+}
+
+
+.card-container.visible-from-bottom {
+  opacity: 1;
+  animation: slideFromBottom 0.5s ease-out forwards;
+}
+
+.card-container.visible-from-top {
+  opacity: 1;
+  animation: slideFromTop 0.5s ease-out forwards;
+}
+
+@keyframes slideFromBottom {
+  from {
+    transform: translateY(50px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideFromTop {
+  from {
+    transform: translateY(-50px);
+  }
+  to {
+    transform: translateY(0);
   }
 }
