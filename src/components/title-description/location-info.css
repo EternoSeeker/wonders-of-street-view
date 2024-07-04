@@ -1,0 +1,41 @@
+.location-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.location-name,
+.location-description,
+.card-location {
+  color: #002a32;
+}
+
+.location-name {
+  text-align: left;
+  font-size: 2.75rem;
+  font-family: "Lora", serif;
+  font-weight: 600;
+}
+
+.location-description {
+  text-align: left;
+  font-size: 1.15rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  margin-top: 0.5rem;
+}
+
+.card-location {
+  display: flex;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.card-location img {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.5rem;
+}
