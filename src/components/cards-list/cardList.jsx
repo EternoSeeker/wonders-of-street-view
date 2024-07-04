@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import Card from "../location-card/Card.jsx";
 import "./card-list.css";
+import DisplayCard from "../location-card/Card";
 import data from "../../data/locations.json";
 import PropTypes from "prop-types";
 
@@ -23,7 +23,7 @@ function CardList({ onCardClick }) {
   return (
     <div className="card-list">
       {shuffledData.map((item) => (
-        <Card
+        <DisplayCard
           key={item.id}
           name={item.name}
           tagline={item.tagline}

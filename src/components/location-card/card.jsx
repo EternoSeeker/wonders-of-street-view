@@ -3,7 +3,14 @@ import PropTypes from "prop-types";
 import pinIcon from "../../assets/pin-drop.svg";
 import { useState, useRef, useEffect } from "react";
 
-function Card({ name, tagline, location, imageLink, imageAlt, onClick }) {
+function DisplayCard({
+  name,
+  tagline,
+  location,
+  imageLink,
+  imageAlt,
+  onClick,
+}) {
   const handleClick = (event) => {
     event.preventDefault();
     onClick();
@@ -83,7 +90,7 @@ function Card({ name, tagline, location, imageLink, imageAlt, onClick }) {
   );
 }
 
-Card.propTypes = {
+DisplayCard.propTypes = {
   name: PropTypes.string.isRequired,
   tagline: PropTypes.string.isRequired,
   location: PropTypes.string.isRequired,
@@ -92,4 +99,4 @@ Card.propTypes = {
   onClick: PropTypes.func.isRequired,
 };
 
-export default Card;
+export default DisplayCard;
