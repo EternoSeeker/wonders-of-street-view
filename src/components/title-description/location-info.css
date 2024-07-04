@@ -13,9 +13,10 @@
 
 .location-name {
   text-align: left;
-  font-size: 2.75rem;
+  font-size: 2.7rem;
   font-family: "Lora", serif;
   font-weight: 600;
+  text-align: left;
 }
 
 .location-description {

@@ -1,0 +1,33 @@
+.street-view-page {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.2rem;
+  position: relative;
+  background-color: #fcf6f0;
+}
+
+.info-map-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+  min-width: 5rem;
+  max-width: 30%;
+}
+
+.street-view-container {
+  flex: 2;
+  min-width: 10rem;
+}
+
+@media (max-width: 768px) {
+  .street-view-page {
+    flex-direction: column;
+  }
+
+  .info-map-container,
+  .street-view-container {
+    max-width: 100%;
+    width: 100%;
+  }
+}

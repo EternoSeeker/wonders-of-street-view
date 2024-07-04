@@ -1,18 +1,19 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 2rem;
   text-align: center;
+  background-color: #fcf6f0;
 }
 
-.street-view-page{
+.street-view-page {
   position: relative;
   top: 3rem;
 }
 
 .card-list{
   position: relative;
-  top: 4rem;
+  top: 3rem;
 }
 
 .title-bar {
@@ -44,7 +45,7 @@
   text-shadow: 0.2rem 0.3rem 0.3rem rgba(0, 0, 0, 0.75);
   font-style: normal;
   color: white;
-  font-size: 1.32rem;
+  font-size: 1.2rem;
   z-index: 2;
   padding: 0 1rem;
   white-space: nowrap;
@@ -53,9 +54,15 @@
   user-select: none;
 }
 
+@media (min-width: 425px){
+  .title-text{
+    font-size: 1.6rem;
+  }
+}
+
 @media (min-width: 768px) {
   .title-text {
-    font-size: 2rem;
+    font-size: 2.25rem;
   }
 }
 
@@ -86,18 +93,20 @@
   transition: transform 0.3s ease;
 }
 
-.back-arrow:hover{
-  background-image: url("./assets/backArrowHover.svg");
+.back-arrow:hover {
   transform: scale(1.1);
 }
 
-.back-arrow:active{
+.back-arrow:active {
   transform: scale(1);
 }
 
-@media (max-width: 425px){
+@media (max-width: 425px) {
+  .title-bar{
+    height: 4rem;
+  }
   .back-arrow {
-    height: 1.5rem;
-    width: 1.5rem;
+    height: 1.4rem;
+    width: 1.4rem;
   }
 }

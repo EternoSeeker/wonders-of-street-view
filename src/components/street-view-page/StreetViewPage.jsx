@@ -1,9 +1,9 @@
 import PropTypes from "prop-types";
-import LocationInfo from "../title-description/location-info";
-import DisplayMap from "../embed-map/display-map";
+import LocationInfo from "../title-description/LocationInfo";
+import DisplayMap from "../display-map/DisplayMap";
 import StreetView from "../street-view/StreetView";
 import data from "../../data/locations.json";
-import "./streetViewPage.css";
+import "./street-view-page.css";
 
 const StreetViewPage = ({ id }) => {
   const locationData = data.find((location) => location.id === id);
@@ -26,7 +26,7 @@ const StreetViewPage = ({ id }) => {
         />
       </div>
       <div className="street-view-container">
-        <StreetView embedObject={locationData["embedStreetViewSrc"]} />
+        <StreetView embedObject={locationData["embed-street-view-src"]} />
       </div>
     </div>
   );
