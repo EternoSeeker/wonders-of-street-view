@@ -24,7 +24,6 @@
   border-radius: 0.25rem;
   text-decoration: none;
   transition: background-color 0.3s ease, transform 0.3s ease;
-  user-select: none;
 }
 
 .view-larger-map-button:hover,
@@ -37,4 +36,3 @@
 .view-larger-map-button:active {
   transform: scale(0.95); 
 }
-
