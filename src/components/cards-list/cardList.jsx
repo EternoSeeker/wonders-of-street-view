@@ -6,7 +6,10 @@ import PropTypes from "prop-types";
 
 function CardList({ onCardClick }) {
   const [shuffledData, setShuffledData] = useState([]);
-
+  const imageUrl = "https://res.cloudinary.com/dyebjngbm/image/upload/ar_5:4,w_300,c_fill/e_improve:outdoor:80/f_jpg/Wonders%20of%20street%20view/";
+  const getImageUrl = (id) => {
+    return `${imageUrl}loc-${id}.jpg`;
+  }
   const shuffleArray = (array) => {
     const newArray = [...array];
     for (let i = newArray.length - 1; i > 0; i--) {
@@ -28,7 +31,7 @@ function CardList({ onCardClick }) {
           name={item.name}
           tagline={item.tagline}
           location={item.location}
-          imageLink={item["image-link"] || "https://via.placeholder.com/300"}
+          imageLink= {getImageUrl(item.id)}
           imageAlt={item["image-alt"]}
           onClick={() => onCardClick(item.id)}
         />

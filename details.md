@@ -11,6 +11,10 @@ Julius Sans One
 
 ## Style guide
 
+## Images
+creative commons license
+wikimedia commons
+
 const imageUrl =
    "https://res.cloudinary.com/dyebjngbm/image/upload/w_300,c_scale/e_improve:outdoor:80/cld-sample-5.jpg";
 
