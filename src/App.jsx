@@ -9,7 +9,6 @@ function App() {
   const [locationId, setLocationId] = useState(null);
 
   const handleCardClick = (id) => {
-    console.log("Card clicked:", id);
     setLocationId(id);
   };
 

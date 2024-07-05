@@ -285,7 +285,7 @@
         "image-alt": "Penguins, Antarctica",
         "embed-street-view-src": {
             "View 1": "https://www.google.com/maps/embed?pb=!4v1718993418831!6m8!1m7!1sZzuMubmHCfCGGo3ePSlpCQ!2m2!1d-62.59608682521039!2d-59.90165494252034!3f241.87!4f-4.510000000000005!5f1.0671864295148903",
-            "View 2":"https://www.google.com/maps/embed?pb=!4v1718905569218!6m8!1m7!1sCAoSLEFGMVFpcE9WWUJoMElZR3gzNVlISllpTUhkLV8xNFBPbmZSVWpZd0l6NWx4!2m2!1d-64.5324!2d-62.5542!3f207.4737136372754!4f-5.088267573652203!5f0.4000000000000002"
+            "View 2": "https://www.google.com/maps/embed?pb=!4v1718905569218!6m8!1m7!1sCAoSLEFGMVFpcE9WWUJoMElZR3gzNVlISllpTUhkLV8xNFBPbmZSVWpZd0l6NWx4!2m2!1d-64.5324!2d-62.5542!3f207.4737136372754!4f-5.088267573652203!5f0.4000000000000002"
         },
         "coordinates": {
             "latitude": -62.5961,
@@ -297,7 +297,7 @@
         "name": "Amazon River",
         "location": "Rio Negro, Brazil",
         "tagline": "The Amazon River Basin",
-        "type" : [
+        "type": [
             "River"
         ],
         "keywords": [
@@ -306,15 +306,182 @@
             "Brazil",
             "River Basin"
         ],
-        "description" : "The Rio Negro, or Guainía as it is known in its upper part, is the largest left tributary of the Amazon River, the largest blackwater river in the world, and one of the world's ten largest rivers by average discharge.",
-        "image-link" : "",
-        "image-alt" : "Amazon River basin, Manaus, Brazil",
+        "description": "The Rio Negro, or Guainía as it is known in its upper part, is the largest left tributary of the Amazon River, the largest blackwater river in the world, and one of the world's ten largest rivers by average discharge.",
+        "image-link": "",
+        "image-alt": "Amazon River basin, Manaus, Brazil",
         "embed-street-view-src": {
             "View": "https://www.google.com/maps/embed?pb=!4v1718993497208!6m8!1m7!1s1ci-8iBT_UuG1dlrUy1vzg!2m2!1d-3.137760506045586!2d-60.49335489465247!3f153.68807446305505!4f-5.603257931408109!5f1.1093371934926033"
         },
-        "coordinates":{
+        "coordinates": {
             "latitude": -3.1377,
             "longitude": -60.4933
+        }
+    },
+    {
+        "id": 13,
+        "name": "Glacier Point",
+        "location": "California, USA",
+        "tagline": "Breathtaking vista of Yosemite",
+        "type": [
+            "Viewpoint",
+            "Natural Landmark"
+        ],
+        "keywords": [
+            "Yosemite",
+            "California",
+            "USA",
+            "National Park",
+            "Glacier Point"
+        ],
+        "description": "Glacier Point offers a stunning panoramic view of Yosemite Valley, Half Dome, and the High Sierra. It's one of the most spectacular viewpoints in Yosemite National Park, accessible by car in summer and by cross-country skiing in winter.",
+        "image-link": "",
+        "image-alt": "Glacier Point, Yosemite National Park, USA",
+        "embed-street-view-src": {
+            "View": "https://www.google.com/maps/embed?pb=!4v1718993664070!6m8!1m7!1sCAoSLEFGMVFpcE9DSUh6UnRDdl9tRERNdEc1M2FDRDg4d2JFX3c3VWlib0tSSmx1!2m2!1d37.72921713!2d-119.57294226!3f35.91622717914945!4f-4.7982811542973!5f0.4000000000000002"
+        },
+        "coordinates": {
+            "latitude": 37.726111,
+            "longitude": -119.5735537
+        }
+    },
+    {
+        "id": 14,
+        "name": "Lake Titicaca",
+        "location": "Peru/Bolivia",
+        "tagline": "Floating islands of the Andes",
+        "type": [
+            "Lake",
+            "Cultural Site"
+        ],
+        "keywords": [
+            "Peru",
+            "Bolivia",
+            "Andes",
+            "Uros Islands",
+            "Lake Titicaca"
+        ],
+        "description": "Lake Titicaca, straddling the border of Peru and Bolivia, is renowned for its floating islands inhabited by the Uros people. These unique islands are made entirely of totora reeds, creating a fascinating cultural landscape on South America's largest lake.",
+        "image-link": "",
+        "image-alt": "Floating islands on Lake Titicaca, Peru",
+        "embed-street-view-src": {
+            "Floating Homes": "https://www.google.com/maps/embed?pb=!4v1718993686640!6m8!1m7!1sCAoSLEFGMVFpcE9FeC1YOWJhTVA4bmdXbG0xNWtxSFlac0dmSGNuS0REaGhlU3Zv!2m2!1d-15.7509148!2d-69.8791127!3f264.69158453213157!4f5.017843378225024!5f0.4000000000000002"
+        },
+        "coordinates": {
+            "latitude": -15.7509148,
+            "longitude": -69.8791127
+        }
+    },
+    {
+        "id": 15,
+        "name": "Lake Pitkäjärvi",
+        "location": "Finland",
+        "tagline": "Serene Finnish lake under the Northern Lights",
+        "type": [
+            "Lake",
+            "Natural Phenomenon"
+        ],
+        "keywords": [
+            "Finland",
+            "Lake",
+            "Aurora Borealis",
+            "Northern Lights",
+            "Pitkäjärvi"
+        ],
+        "description": "Lake Pitkäjärvi in Finland offers a picturesque setting for viewing the Aurora Borealis. The lake's tranquil waters reflect the dancing lights of the aurora, creating a magical and unforgettable spectacle in the Finnish wilderness.",
+        "image-link": "",
+        "image-alt": "Aurora Borealis over Lake Pitkäjärvi, Finland",
+        "embed-street-view-src": {
+            "Lake View": "https://www.google.com/maps/embed?pb=!4v1718993722861!6m8!1m7!1sCAoSLEFGMVFpcE0xdl9TSkVBX2ZSdXJDamY1SGhDN3NnOUNmYXRFRUxkUF9oUkhv!2m2!1d60.2524864!2d24.7477953!3f243.65!4f-13.900000000000006!5f0.7820865974627469",
+            "Aurora Borealis": "https://www.google.com/maps/embed?pb=!4v1718993737015!6m8!1m7!1sNzZLM1mGhUgAAAQZLDcQIg!2m2!1d68.50908135680163!2d27.48177715533529!3f349.65!4f31.129999999999995!5f0.4000000000000002"
+        },
+        "coordinates": {
+            "latitude": 60.2524864,
+            "longitude": 24.7477953
+        }
+    },
+    {
+        "id": 16,
+        "name": "Chernobyl Exclusion Zone",
+        "location": "Ukraine",
+        "tagline": "Haunting reminder of nuclear disaster",
+        "type": [
+            "Historical Site",
+            "Abandoned City"
+        ],
+        "keywords": [
+            "Ukraine",
+            "Chernobyl",
+            "Pripyat",
+            "Nuclear Disaster",
+            "Abandoned"
+        ],
+        "description": "The Chernobyl Exclusion Zone, including the abandoned city of Pripyat, stands as a stark reminder of the 1986 nuclear disaster. The area now attracts tourists and researchers, offering a unique glimpse into a world frozen in time.",
+        "image-link": "",
+        "image-alt": "Abandoned city of Pripyat near Chernobyl, Ukraine",
+        "embed-street-view-src": {
+            "Power Plant": "https://www.google.com/maps/embed?pb=!4v1718993751482!6m8!1m7!1sCAoSLEFGMVFpcE90X0dxNXhXdklmLTlTMDZ0TnpsX3RRb2tBaHlZYTMyd3ZnS3RU!2m2!1d51.388387755182!2d30.098593561421!3f49.84!4f11.430000000000007!5f0.7820865974627469",
+            "Abandoned City": "https://www.google.com/maps/embed?pb=!4v1718993774234!6m8!1m7!1sCAoSLEFGMVFpcE5DTDNJMHdaS0xFYzBoMGxCUUJoWWVrZTlqVkpWS1dPQURYcXRL!2m2!1d51.404871!2d30.0482612!3f70.05!4f23.730000000000004!5f0.7820865974627469",
+            "City Hospital": "https://www.google.com/maps/embed?pb=!4v1718993793594!6m8!1m7!1sCAoSLEFGMVFpcE5DbjNRLVVETENVYy1UUVhYS0pBVkxTa0lLbnl1MmQtRkV4QmNq!2m2!1d51.4062358895947!2d30.06541954758106!3f26.3!4f-12.290000000000006!5f0.7820865974627469"
+        },
+        "coordinates": {
+            "latitude": 51.3883878,
+            "longitude": 30.0985936
+        }
+    },
+    {
+        "id": 17,
+        "name": "Giza Pyramid Complex",
+        "location": "Giza, Egypt",
+        "tagline": "Ancient wonders of the world",
+        "type": [
+            "Archaeological Site",
+            "Ancient Wonder"
+        ],
+        "keywords": [
+            "Egypt",
+            "Giza",
+            "Pyramids",
+            "Ancient Egypt",
+            "Wonder of the World"
+        ],
+        "description": "The Giza Pyramid Complex, home to the Great Pyramid of Giza, is one of the most iconic archaeological sites in the world. Built as tombs for the pharaohs, these ancient structures have captivated humanity for millennia with their grandeur and mystery.",
+        "image-link": "",
+        "image-alt": "Giza Pyramid Complex, Egypt",
+        "embed-street-view-src": {
+            "View 1": "https://www.google.com/maps/embed?pb=!4v1718993821254!6m8!1m7!1sCAoSLEFGMVFpcE1QNEVtaW8td2dOY3RxSzY3a3IxZUExU19oTUdQNDUzYzRwaF9R!2m2!1d29.9792345!2d31.1342019!3f281.94985057065503!4f24.0531245345324!5f0.4000000000000002",
+            "View 2": "https://www.google.com/maps/embed?pb=!4v1718908279152!6m8!1m7!1sCAoSLEFGMVFpcE5ndnptX0huRVZ0clptZF8zbFZvMVRKZzdPb0t5czE0OWpQMl80!2m2!1d29.973883!2d31.132634!3f345.6781347916517!4f-19.566903112138036!5f0.4000000000000002"
+        },
+        "coordinates": {
+            "latitude": 29.9792345,
+            "longitude": 31.1342019
+        }
+    },
+    {
+        "id": 18,
+        "name": "Devon Island",
+        "location": "Nunavut, Canada",
+        "tagline": "Earth's Mars analog",
+        "type": [
+            "Island",
+            "Research Site"
+        ],
+        "keywords": [
+            "Canada",
+            "Arctic",
+            "Mars Analog",
+            "Devon Island",
+            "Research"
+        ],
+        "description": "Devon Island, the largest uninhabited island on Earth, is often described as 'Mars on Earth' due to its barren, rocky landscape and harsh climate. Scientists use this unique environment to simulate and study conditions for future Mars exploration.",
+        "image-link": "",
+        "image-alt": "Mars-like landscape of Devon Island, Canada",
+        "embed-street-view-src": {
+            "View 1": "https://www.google.com/maps/embed?pb=!4v1718993854382!6m8!1m7!1s82sio1-tpRQAAAQrDCEphQ!2m2!1d75.43565657112072!2d-89.8250787032007!3f305.26!4f1.6599999999999966!5f0.7820865974627469",
+            "View 2": "https://www.google.com/maps/embed?pb=!4v1718993869309!6m8!1m7!1sCAoSLEFGMVFpcE5GNi1vLU5lVS1SSU9NYjAzOEpuRDFyYVVnYjM0Ujcwem9mRzdR!2m2!1d75.3867507!2d-89.56964049999999!3f35.2!4f2.0900000000000034!5f0.7820865974627469"
+        },
+        "coordinates": {
+            "latitude": 75.4356566,
+            "longitude": -89.8250787
         }
     }
 ]
