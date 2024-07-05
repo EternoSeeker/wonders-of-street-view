@@ -75,7 +75,7 @@ function DisplayCard({
       role="button"
     >
       <div className="card">
-        <img className="card-image" src={imageLink} alt={imageAlt} />
+        <img className="card-image" src={imageLink} alt={imageAlt} loading="lazy"/>
       </div>
       <div>
         <div className="card-title">{name}</div>
