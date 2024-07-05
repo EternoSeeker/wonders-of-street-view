@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./card-list.css";
-import DisplayCard from "../location-card/Card";
+import DisplayCard from "../location-card/DisplayCard";
 import data from "../../data/locations.json";
 import PropTypes from "prop-types";
 

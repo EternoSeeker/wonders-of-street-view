@@ -12,7 +12,7 @@
 }
 
 .card-container:hover {
-  transform: scale(1.02);
+  transform: scale(1.05);
   box-shadow: 0 0.5rem 1rem rgb(0, 42, 50, 0.2);
   transition-duration: 0.2s;
 }
@@ -91,7 +91,6 @@
     font-size: 0.8rem;
   }
 }
-
 
 .card-container.visible-from-bottom {
   opacity: 1;
