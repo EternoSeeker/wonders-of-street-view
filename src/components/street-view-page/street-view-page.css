@@ -30,3 +30,12 @@
     width: 100%;
   }
 }
+
+ @media (min-width: 425px) and (max-width: 768px){
+  .map-container{
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+ }
+
+

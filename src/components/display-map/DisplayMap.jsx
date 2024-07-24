@@ -10,8 +10,6 @@ const DisplayMap = ({ latitude, longitude }) => {
   return (
     <div className="map-container">
       <iframe
-        width="425"
-        height="350"
         src={src}
         className="map-frame"
         title="OpenStreetMap"

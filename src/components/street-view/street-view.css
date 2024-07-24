@@ -21,3 +21,9 @@ iframe {
   height: 70vh;
   border: 0;
 }
+
+@media (max-width: 425px) {
+  iframe{
+    height: 60vh;
+  }
+}

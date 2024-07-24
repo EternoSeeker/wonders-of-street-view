@@ -73,7 +73,7 @@
 
 .back-arrow {
   position: fixed;
-  top: 3%;
+  top: 1.15rem;
   left: 2%;
   z-index: 3;
   cursor: pointer;
